@@ -49,6 +49,8 @@ python main.py
 - Charts and graphs
 - Downloadable automated reports
 
+  <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/690d3498-75d5-4fc2-a804-a9065a8689a0" />
+
 ## Future Enhancements
 - Web-based dashboard
 - Real-time data processing
